@@ -3,9 +3,9 @@ d2 = {"Harry":"Burger",
       "Rohan":"Fish",
       "SkillF":"Roti"}
 
-print(d2)
-d2.update({"Leena":"Toffee"}) #addition in dict
-print(d2)
+print(d2) 
+d2.update({"Leena":"Toffee"}) #addition in dict 
+print(d2) 
 
 d2[420]="Junk food"
 print(d2)
